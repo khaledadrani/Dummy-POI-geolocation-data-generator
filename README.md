@@ -14,6 +14,7 @@ https://medium.com/wealthy-bytes/the-easiest-way-to-use-a-python-virtual-environ
 
 ## when cloning the repo
 1 - Clone repository
+
 2 - create virtual environment
 ```
 python3 -m venv env
